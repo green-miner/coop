@@ -1,2 +1,9 @@
 # coop
-information about organisation
+
+## Задачи
+
+[Задачи](задачи.md)
+
+## Устав
+
+[Устав](устав.md)
